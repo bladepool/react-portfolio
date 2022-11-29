@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "Bladepool";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Bladepool",
+    description: "I’m Bladepool, one of my hobbies is learning new things, and do my best to understand the technology.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Bladepool",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love learning, sharing and building new things.",
+        second: "We focus on understanding your needs and help implement them.",
+        third: "I develop mobile application, write whiepaper, and books.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "computer development",
+    your_img_url: "https://blog-media.byjusfutureschool.com/bfs-blog/2022/08/03035002/Article-Image-945%C3%97498.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Was born from 0 and 1, the idea of code is very interesting, building things that follow instructions are impressive. I know a thing or two, if you need help just ask.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Android",
         value: 85,
     },
     {
@@ -53,22 +53,22 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Solidity",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Content Writing",
+        description: "I love writing, one of my biggest passion is writing content, science fiction or non-fiction are things i like to write.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Android Applications, iOS Applications and dAPPs are some of the things i like to code and build.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Solidity, Move, Rust",
+        description: "You know the rest, coding is something that is natural to me.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "admin@bladepool.io",
+    YOUR_FONE: "(555)699-0724",
+    description: "You can contact me via email or any of the social media.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,12 +147,12 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/bladepool",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    twitter: "https://twitter.com/bladepoolx",
     youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    twitch: "https://twitch.com/bladepool",
 };
 export {
     meta,
