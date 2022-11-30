@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Who I'm?",
     aboutme: "Was born from 0 and 1, the idea of code is very interesting, building things that follow instructions are impressive. I know a thing or two, if you need help just ask.",
 };
 const worktimeline = [{
